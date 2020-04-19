@@ -90,6 +90,7 @@ Authors
 
 Molecule project was created by `Retr0h <https://github.com/retr0h>`_ and it is
 now community-maintained as part of the `Ansible`_ by Red Hat project.
+with git hub
 
 .. _license:
 
